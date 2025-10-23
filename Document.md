@@ -46,7 +46,7 @@ To add ScrimX to your Discord server:
    > [Add ScrimX to your Discord Server](https://discord.com/oauth2/authorize?client_id=1423635662116094025&permissions=8&integration_type=0&scope=bot+applications.commands)
 
 2. Assign the necessary permissions (Manage Roles, Manage Channels, etc.).
-3. Use `/help` to explore commands and setup instructions.
+3. Use `xhelp` to explore commands and setup instructions.
 
 > 💡 We recommend using the hosted version of ScrimX instead of cloning your own.  
 > This ensures access to new updates, bug fixes, and premium esports features.
